@@ -1,0 +1,9 @@
+[submodule "nanoRiegoPCB"]
+	path = nanoRiegoPCB
+	url = https://github.com/MikeMakes/nanoRiegoPCB.git
+[submodule "nanoRiegoPIO"]
+	path = nanoRiegoPIO
+	url = https://github.com/MikeMakes/nanoRiegoPIO.git
+[submodule "nanoRiegoAPP"]
+	path = nanoRiegoAPP
+	url = https://github.com/MikeMakes/nanoRiegoAPP.git
