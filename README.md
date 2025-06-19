@@ -30,5 +30,5 @@ Conceptually, the system can be divided into three elements;
 * Bluetooth: Interface and controller communicate via Bluetooth
 * Automatic connection: After first connection, it is done automatically.
 
-To get this repo:  
+# To get this repo:  
 > git clone --recurse-submodules https://github.com/MikeMakes/nanoRiego.git
