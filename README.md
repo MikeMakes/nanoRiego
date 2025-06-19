@@ -23,7 +23,7 @@ Conceptually, the system can be divided into three elements;
 * Valves: Three (3) valve control
 * Pump control: One (1) hydraulic pump control
 * Manual control: Manual control of irrigation zones
-* Programming: Schedule a watering cycle at a certain time, with a Duration determined for each zone, for established the days
+* Programming: Schedule a watering cycle at a certain time, with determined duration for each zone, for certain weekdays
 * Real Time: Real Time Clock with Auto Synchronization
 * Persistence: Controller parameters remain without power
 * Mobile interface: The user governs the controller from an Android APP
