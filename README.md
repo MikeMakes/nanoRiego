@@ -3,7 +3,7 @@ NanoRiego is originally a demonstration and practice of product development. The
 
 <p align="middle">
   <img src="/nanoRiegoDOC/editables/resources/gui1.jpg" width="32%">
-  <pre class="tab2">        </pre>
+  <p>        </p>
   <img src="/nanoRiegoDOC/editables/resources/gui2.jpg" width="32%">
 </p>
 
