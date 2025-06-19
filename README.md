@@ -3,7 +3,7 @@ NanoRiego is originally a demonstration and practice of product development. The
 
 <p align="middle">
   <img src="/nanoRiegoDOC/editables/resources/nanoRiegoPIO_clean.png" width="32%" align="middle">
-  <img src="/nanoRiegoDOC/editables/resources/esquemaUnifilar.png" width="32%" align="middle">
+  <img src="/nanoRiegoDOC/editables/resources/esquemaUnifilar.png" width="60%" align="middle">
 </p>
 
 
