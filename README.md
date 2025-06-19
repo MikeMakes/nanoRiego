@@ -28,7 +28,7 @@ Conceptually, the system can be divided into three elements;
 * Persistence: Controller parameters remain without power
 * Mobile interface: The user governs the controller from an Android APP
 * Bluetooth: Interface and controller communicate via Bluetooth
-* Automatic connection: After first connection, it is done automatically.   
+* Automatic connection: After first connection reconnection is automatic
 
 # To get this repo:  
 > git clone --recurse-submodules https://github.com/MikeMakes/nanoRiego.git
