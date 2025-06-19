@@ -1,8 +1,10 @@
 # nanoRiego
 NanoRiego is originally a demonstration and practice of product development. The product in question is a low-cost, modular and simple irrigation controller.
 
-<img src="/nanoRiegoDOC/editables/resources/gui1.jpg" width="280" height="600">
-<img src="/nanoRiegoDOC/editables/resources/gui2.jpg" width="280" height="600">
+<p float="middle">
+  <img src="/nanoRiegoDOC/editables/resources/gui1.jpg" width="280" height="600">
+  <img src="/nanoRiegoDOC/editables/resources/gui2.jpg" width="280" height="600">
+</p>
 
 
 Conceptually, the system can be divided into three elements;
