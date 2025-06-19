@@ -1,5 +1,5 @@
 # nanoRiego
-NanoRiego is originally a demonstration and practice of product development. The product in question is a low-cost, modular and simple irrigation controller.   
+NanoRiego is originally a demonstration and practice of product development. The product in question is a low-cost, modular and simple irrigation controller. Exhaustive info (in spanish) ![here](Manual_de_usuario_v0.1.pdf).   
 
 <p align="middle">
   <img src="/nanoRiegoDOC/editables/resources/nanoRiegoPIO_clean.png" width="32%" title="nanoRiegoPCB" alt="nanoRiegoPCB">
@@ -29,7 +29,6 @@ Conceptually, the system can be divided into three elements;
 * Mobile interface: The user governs the controller from an Android APP
 * Bluetooth: Interface and controller communicate via Bluetooth
 * Automatic connection: After first connection, it is done automatically.   
-Exhaustive info (in spanish) ![here](Manual_de_usuario_v0.1.pdf)
 
 # To get this repo:  
 > git clone --recurse-submodules https://github.com/MikeMakes/nanoRiego.git
