@@ -1,7 +1,8 @@
 # nanoRiego
 NanoRiego is originally a demonstration and practice of product development. The product in question is a low-cost, modular and simple irrigation controller.
 
-![nanoRiegoPCB](/nanoRiegoDOC/editables/resources/nanoRiegoPCB_clean.png)
+![nanoRiegoPCB](/nanoRiegoDOC/editables/resources/nanoRiegoPCB_clean.png nanoRiegoPCB)
+![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
 
 Conceptually, the system can be divided into three elements;
 * NanoRiegoPCB: Controller Device Hardware to which valves and motor are connected 
