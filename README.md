@@ -29,6 +29,7 @@ Conceptually, the system can be divided into three elements;
 * Mobile interface: The user governs the controller from an Android APP
 * Bluetooth: Interface and controller communicate via Bluetooth
 * Automatic connection: After first connection, it is done automatically.
+Exhaustive info (in spanish) ![here](Manual_de_usuario_v0.1.pdf)
 
 # To get this repo:  
 > git clone --recurse-submodules https://github.com/MikeMakes/nanoRiego.git
