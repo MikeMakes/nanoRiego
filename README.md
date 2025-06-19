@@ -2,8 +2,8 @@
 NanoRiego is originally a demonstration and practice of product development. The product in question is a low-cost, modular and simple irrigation controller.   
 
 <p align="middle">
-  <img src="/nanoRiegoDOC/editables/resources/nanoRiegoPIO_clean.png" width="32%" align="middle" title="nanoRiegoPCB" alt="nanoRiegoPCB">
-  <img src="/nanoRiegoDOC/editables/resources/esquemaUnifilar.png" width="60%" align="middle" title="Unifilar scheme" alt="Unifilar scheme">
+  <img src="/nanoRiegoDOC/editables/resources/nanoRiegoPIO_clean.png" width="32%" title="nanoRiegoPCB" alt="nanoRiegoPCB">
+  <img src="/nanoRiegoDOC/editables/resources/esquemaUnifilar.png" width="60%" title="Unifilar scheme" alt="Unifilar scheme">
 </p>
 
 
@@ -13,8 +13,8 @@ Conceptually, the system can be divided into three elements;
 * NanoRiegoAPP: User Interface Android application to manage the system
 
 <p align="middle">
-  <img src="/nanoRiegoDOC/editables/resources/gui1.jpg" width="32%">
-  <img src="/nanoRiegoDOC/editables/resources/gui2.jpg" width="32%">
+  <img src="/nanoRiegoDOC/editables/resources/gui1.jpg" width="32%" title="Main GUI page" alt="Main GUI page">
+  <img src="/nanoRiegoDOC/editables/resources/gui2.jpg" width="32%" title="GUI settings page" alt="GUI settings page">
 </p>
 
 # Capabilities
