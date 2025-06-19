@@ -13,7 +13,7 @@ Conceptually, the system can be divided into three elements;
 * NanoRiegoAPP: User Interface, Android application to manage the system
 
 <p align="middle">
-  <img src="/nanoRiegoDOC/editables/resources/gui1.jpg" width="42%" title="Main GUI page" alt="Main GUI page">
+  <img src="/nanoRiegoDOC/editables/resources/gui1.jpg" width="32%" title="Main GUI page" alt="Main GUI page">
   <img src="/nanoRiegoDOC/editables/resources/gui2.jpg" width="32%" title="GUI settings page" alt="GUI settings page">
 </p>
 
