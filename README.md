@@ -8,9 +8,9 @@ NanoRiego is originally a demonstration and practice of product development. The
 
 
 Conceptually, the system can be divided into three elements;
-* NanoRiegoPCB: Controller Device Hardware to which valves and motor are connected 
-* NanoRiegoPIO: Software Driver Software that runs on the controller 
-* NanoRiegoAPP: User Interface Android application to manage the system
+* NanoRiegoPCB: Hardware Controller Device to which valves and motor are connected 
+* NanoRiegoPIO: Software that runs on the controller 
+* NanoRiegoAPP: User Interface, Android application to manage the system
 
 <p align="middle">
   <img src="/nanoRiegoDOC/editables/resources/gui1.jpg" width="32%" title="Main GUI page" alt="Main GUI page">
